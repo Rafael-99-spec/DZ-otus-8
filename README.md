@@ -1,1 +1,1 @@
-# DZ-otusp-8
+# DZ-otus-8
